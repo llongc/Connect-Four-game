@@ -1,2 +1,5 @@
 # Connect-Four-game
-A connect four game, Java, individual project
+https://en.wikipedia.org/wiki/Connect_Four
+
+Used Java, Individual Project
+Rutgers CS intro to computer science, fall 2016
